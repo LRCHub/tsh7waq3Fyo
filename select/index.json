@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "slash",
+  "base_artist": "yama",
+  "createdAt": "2026-02-11T10:53:45.443065Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Slash Your Tires",
+      "artist": "Luna",
+      "has_synced": true,
+      "path": "select/01_Slash_Your_Tires_Luna.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Slash 'N' Burn",
+      "artist": "Manic Street Preachers",
+      "has_synced": true,
+      "path": "select/02_Slash_'N'_Burn_Manic_Street_Preachers.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Slash N' Burn",
+      "artist": "Manic Street Preachers",
+      "has_synced": true,
+      "path": "select/03_Slash_N'_Burn_Manic_Street_Preachers.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Clash (Slash Remix by Shiny Mob)",
+      "artist": "Caravan Palace",
+      "has_synced": false,
+      "path": "select/04_Clash_(Slash_Remix_by_Shiny_Mob)_Caravan_Palace.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Privacy (feat. Slash)",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/05_Privacy_(feat._Slash)_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Slash Dot Dash",
+      "artist": "Fatboy Slim",
+      "has_synced": false,
+      "path": "select/06_Slash_Dot_Dash_Fatboy_Slim.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "North Memphis Like Me (feat. V Slash)",
+      "artist": "Juicy J & V Slash",
+      "has_synced": true,
+      "path": "select/07_North_Memphis_Like_Me_(feat._V_Slash)_Juicy_J_&_V_Slash.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "North Memphis like Me (feat. V Slash)",
+      "artist": "Juicy J",
+      "has_synced": true,
+      "path": "select/08_North_Memphis_like_Me_(feat._V_Slash)_Juicy_J.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Stalk & Slash",
+      "artist": "Therapy?",
+      "has_synced": false,
+      "path": "select/09_Stalk_&_Slash_Therapy.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Rockstar 101 (feat. Slash)",
+      "artist": "Rihanna feat. Slash",
+      "has_synced": true,
+      "path": "select/10_Rockstar_101_(feat._Slash)_Rihanna_feat._Slash.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Rockstar 101 (feat. Slash)",
+      "artist": "Rihanna",
+      "has_synced": true,
+      "path": "select/11_Rockstar_101_(feat._Slash)_Rihanna.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Slash Dot Dash",
+      "artist": "Fatboy Slim",
+      "has_synced": true,
+      "path": "select/12_Slash_Dot_Dash_Fatboy_Slim.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Emerald - feat. Slash",
+      "artist": "Ace Frehley feat. Slash",
+      "has_synced": true,
+      "path": "select/13_Emerald_-_feat._Slash_Ace_Frehley_feat._Slash.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "SLASH",
+      "artist": "Tokyo Machine",
+      "has_synced": true,
+      "path": "select/14_SLASH_Tokyo_Machine.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "SLASH (Halloween Scary Song)",
+      "artist": "Tokyo Machine",
+      "has_synced": true,
+      "path": "select/15_SLASH_(Halloween_Scary_Song)_Tokyo_Machine.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Give In To Me (Feat. Slash)",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/16_Give_In_To_Me_(Feat._Slash)_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Slash Dementia",
+      "artist": "Carcass",
+      "has_synced": true,
+      "path": "select/17_Slash_Dementia_Carcass.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Emerald (Featuring Slash)",
+      "artist": "Ace Frehley",
+      "has_synced": true,
+      "path": "select/18_Emerald_(Featuring_Slash)_Ace_Frehley.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "slash",
+      "artist": "yama",
+      "has_synced": false,
+      "path": "select/pl_01_slash_yama.txt"
+    }
+  ]
+}
